@@ -1,2 +1,11 @@
-# blancmap
 blancmap
+========
+
+blancmap
+
+
+License
+-------
+
+MIT License
+
